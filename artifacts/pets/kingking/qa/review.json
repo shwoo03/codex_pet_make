@@ -381,60 +381,60 @@
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waving/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15191,
+          "nontransparent_pixels": 14824,
           "bbox": [
-            29,
+            30,
             5,
-            162,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 81
+          "chroma_adjacent_pixels": 80
         },
         {
           "index": 1,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waving/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15326,
+          "nontransparent_pixels": 14981,
           "bbox": [
-            29,
+            31,
             5,
-            162,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 78
+          "chroma_adjacent_pixels": 88
         },
         {
           "index": 2,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waving/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15537,
+          "nontransparent_pixels": 15144,
           "bbox": [
-            29,
+            31,
             5,
-            162,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 87
+          "chroma_adjacent_pixels": 95
         },
         {
           "index": 3,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waving/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15103,
+          "nontransparent_pixels": 15007,
           "bbox": [
-            29,
+            31,
             5,
-            162,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 78
+          "chroma_adjacent_pixels": 93
         }
       ]
     },
@@ -452,75 +452,75 @@
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/jumping/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19304,
+          "nontransparent_pixels": 17452,
           "bbox": [
-            18,
+            19,
             5,
             173,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 132
+          "chroma_adjacent_pixels": 110
         },
         {
           "index": 1,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/jumping/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17841,
+          "nontransparent_pixels": 14776,
           "bbox": [
-            21,
+            23,
             5,
-            170,
+            169,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 140
+          "chroma_adjacent_pixels": 104
         },
         {
           "index": 2,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/jumping/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17370,
+          "nontransparent_pixels": 15304,
           "bbox": [
-            23,
+            14,
             5,
-            168,
+            177,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 114
+          "chroma_adjacent_pixels": 119
         },
         {
           "index": 3,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/jumping/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18370,
+          "nontransparent_pixels": 15254,
           "bbox": [
-            20,
+            11,
             5,
-            171,
+            180,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 110
         },
         {
           "index": 4,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/jumping/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19615,
+          "nontransparent_pixels": 15198,
           "bbox": [
-            17,
+            30,
             5,
-            174,
+            162,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 136
+          "chroma_adjacent_pixels": 119
         }
       ]
     },
@@ -669,90 +669,90 @@
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waiting/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15308,
+          "nontransparent_pixels": 15123,
           "bbox": [
-            28,
+            30,
             5,
-            164,
+            162,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 98
+          "chroma_adjacent_pixels": 103
         },
         {
           "index": 1,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waiting/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15193,
+          "nontransparent_pixels": 15006,
           "bbox": [
-            29,
+            30,
             5,
-            163,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 104
+          "chroma_adjacent_pixels": 88
         },
         {
           "index": 2,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waiting/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15199,
+          "nontransparent_pixels": 14888,
           "bbox": [
-            28,
+            31,
             5,
-            163,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 130
+          "chroma_adjacent_pixels": 112
         },
         {
           "index": 3,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waiting/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15152,
+          "nontransparent_pixels": 15013,
           "bbox": [
-            29,
+            30,
             5,
-            163,
+            162,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 113
+          "chroma_adjacent_pixels": 111
         },
         {
           "index": 4,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waiting/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15145,
+          "nontransparent_pixels": 15148,
           "bbox": [
-            29,
+            30,
             5,
-            163,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 104
+          "chroma_adjacent_pixels": 106
         },
         {
           "index": 5,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/waiting/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15148,
+          "nontransparent_pixels": 15071,
           "bbox": [
-            29,
+            30,
             5,
-            163,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 107
+          "chroma_adjacent_pixels": 100
         }
       ]
     },
@@ -770,90 +770,90 @@
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/running/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15580,
+          "nontransparent_pixels": 14512,
           "bbox": [
-            26,
+            34,
             5,
-            165,
+            158,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 104
+          "chroma_adjacent_pixels": 117
         },
         {
           "index": 1,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/running/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15504,
+          "nontransparent_pixels": 14467,
           "bbox": [
-            27,
+            34,
             5,
-            164,
+            157,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 84
+          "chroma_adjacent_pixels": 110
         },
         {
           "index": 2,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/running/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15643,
+          "nontransparent_pixels": 14208,
           "bbox": [
-            26,
+            35,
             5,
-            165,
+            156,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 108
+          "chroma_adjacent_pixels": 100
         },
         {
           "index": 3,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/running/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15504,
+          "nontransparent_pixels": 14192,
           "bbox": [
-            27,
+            35,
             5,
-            165,
+            156,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 138
+          "chroma_adjacent_pixels": 114
         },
         {
           "index": 4,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/running/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15499,
+          "nontransparent_pixels": 14469,
           "bbox": [
-            27,
+            34,
             5,
-            165,
+            157,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 131
+          "chroma_adjacent_pixels": 114
         },
         {
           "index": 5,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/running/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15473,
+          "nontransparent_pixels": 14277,
           "bbox": [
-            27,
+            35,
             5,
-            165,
+            157,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 131
+          "chroma_adjacent_pixels": 107
         }
       ]
     },
@@ -871,52 +871,7 @@
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15030,
-          "bbox": [
-            29,
-            5,
-            162,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 123
-        },
-        {
-          "index": 1,
-          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 15072,
-          "bbox": [
-            29,
-            5,
-            163,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 112
-        },
-        {
-          "index": 2,
-          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 15047,
-          "bbox": [
-            29,
-            5,
-            162,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 113
-        },
-        {
-          "index": 3,
-          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 14938,
+          "nontransparent_pixels": 14992,
           "bbox": [
             30,
             5,
@@ -924,29 +879,14 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 93
+          "chroma_adjacent_pixels": 158
         },
         {
-          "index": 4,
-          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/04.png",
+          "index": 1,
+          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15029,
-          "bbox": [
-            29,
-            5,
-            162,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 106
-        },
-        {
-          "index": 5,
-          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 15071,
+          "nontransparent_pixels": 15474,
           "bbox": [
             29,
             5,
@@ -954,7 +894,67 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 103
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 2,
+          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14874,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 154
+        },
+        {
+          "index": 3,
+          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14823,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 134
+        },
+        {
+          "index": 4,
+          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15547,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 151
+        },
+        {
+          "index": 5,
+          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14815,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 143
         }
       ]
     }

@@ -6,5 +6,5 @@
   "contact_sheet": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/qa/contact-sheet.png",
   "review": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/qa/review.json",
   "package": "/Users/shwoo/.codex/pets/kingking",
-  "note": "Repaired waiting, running, and review rows with stable paw-clasp posture, tiny breathing, and blink-only variation."
+  "note": "Repaired kingking state language: waiting asks for input, running shows focused task work, review shows thinking, jumping has a clearer arc, and waving is more readable."
 }

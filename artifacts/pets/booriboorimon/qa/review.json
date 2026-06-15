@@ -669,90 +669,90 @@
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/waiting/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24074,
+          "nontransparent_pixels": 22584,
           "bbox": [
-            14,
+            21,
             5,
-            177,
+            171,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 114
         },
         {
           "index": 1,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/waiting/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20290,
+          "nontransparent_pixels": 22228,
           "bbox": [
-            24,
+            21,
             5,
-            168,
+            170,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 107
+          "chroma_adjacent_pixels": 128
         },
         {
           "index": 2,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/waiting/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23930,
+          "nontransparent_pixels": 21948,
           "bbox": [
-            14,
+            22,
             5,
-            177,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 119
-        },
-        {
-          "index": 3,
-          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/waiting/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 23618,
-          "bbox": [
-            16,
-            5,
-            176,
+            170,
             203
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 110
         },
         {
+          "index": 3,
+          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22315,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 122
+        },
+        {
           "index": 4,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/waiting/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20192,
+          "nontransparent_pixels": 21890,
           "bbox": [
-            24,
+            22,
             5,
-            168,
+            169,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 118
+          "chroma_adjacent_pixels": 103
         },
         {
           "index": 5,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/waiting/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23670,
+          "nontransparent_pixels": 22154,
           "bbox": [
-            15,
+            22,
             5,
-            177,
+            169,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 119
+          "chroma_adjacent_pixels": 128
         }
       ]
     },
@@ -770,90 +770,90 @@
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/running/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24453,
+          "nontransparent_pixels": 23326,
           "bbox": [
-            15,
+            18,
             5,
-            177,
+            174,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 117
+          "chroma_adjacent_pixels": 106
         },
         {
           "index": 1,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/running/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23631,
+          "nontransparent_pixels": 23238,
           "bbox": [
-            16,
+            18,
             5,
-            176,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 136
-        },
-        {
-          "index": 2,
-          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/running/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 23536,
-          "bbox": [
-            16,
-            5,
-            176,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
-        },
-        {
-          "index": 3,
-          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/running/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 23370,
-          "bbox": [
-            17,
-            5,
-            175,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 155
-        },
-        {
-          "index": 4,
-          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/running/04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 21593,
-          "bbox": [
-            20,
-            5,
-            171,
+            173,
             203
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 120
         },
         {
+          "index": 2,
+          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23394,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 127
+        },
+        {
+          "index": 3,
+          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22756,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        },
+        {
+          "index": 4,
+          "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23140,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 121
+        },
+        {
           "index": 5,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/running/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23801,
+          "nontransparent_pixels": 22948,
           "bbox": [
-            15,
+            19,
             5,
-            177,
+            172,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 116
+          "chroma_adjacent_pixels": 138
         }
       ]
     },
@@ -871,90 +871,90 @@
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/review/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23951,
+          "nontransparent_pixels": 23357,
           "bbox": [
-            16,
+            18,
             5,
-            176,
+            174,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 108
+          "chroma_adjacent_pixels": 122
         },
         {
           "index": 1,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/review/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23631,
+          "nontransparent_pixels": 23185,
           "bbox": [
-            16,
+            18,
             5,
-            176,
+            173,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 119
+          "chroma_adjacent_pixels": 110
         },
         {
           "index": 2,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/review/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23515,
+          "nontransparent_pixels": 23273,
           "bbox": [
-            16,
+            17,
             5,
-            176,
+            174,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 114
+          "chroma_adjacent_pixels": 115
         },
         {
           "index": 3,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/review/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23179,
+          "nontransparent_pixels": 23043,
           "bbox": [
-            16,
+            18,
             5,
-            175,
+            173,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 95
+          "chroma_adjacent_pixels": 120
         },
         {
           "index": 4,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/review/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 21021,
+          "nontransparent_pixels": 23156,
           "bbox": [
-            21,
+            18,
             5,
-            170,
+            174,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 94
+          "chroma_adjacent_pixels": 113
         },
         {
           "index": 5,
           "file": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/frames/review/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23291,
+          "nontransparent_pixels": 23369,
           "bbox": [
-            16,
+            18,
             5,
-            175,
+            174,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 124
+          "chroma_adjacent_pixels": 102
         }
       ]
     }
