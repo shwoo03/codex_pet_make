@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet",
+  "spritesheet": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/final/spritesheet.webp",
+  "validation": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/final/validation.json",
+  "contact_sheet": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/qa/contact-sheet.png",
+  "review": "/Users/shwoo/mydir/codex_pet_make/.runs/kingking-pet/qa/review.json",
+  "package": "/Users/shwoo/.codex/pets/kingking",
+  "note": "Repaired waiting, running, and review rows with stable paw-clasp posture, tiny breathing, and blink-only variation."
+}

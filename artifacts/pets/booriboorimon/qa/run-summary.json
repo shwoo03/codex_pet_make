@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet",
+  "spritesheet": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/final/spritesheet.webp",
+  "validation": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/final/validation.json",
+  "contact_sheet": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/qa/contact-sheet.png",
+  "review": "/Users/shwoo/mydir/codex_pet_make/.runs/booriboorimon-repair-pet/qa/review.json",
+  "package": "/Users/shwoo/.codex/pets/booriboorimon",
+  "note": "Repaired to remove sword-like prop/stick and earrings, make both feet fully purple, and smooth the ear outline."
+}
